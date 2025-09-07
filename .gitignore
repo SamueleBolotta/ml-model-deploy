@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.env
+ml_deploy_real/
+ml_docker_demo/
+ml_docker_demo_fixed/
+ml_docker_real/
